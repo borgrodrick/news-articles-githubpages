@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hello World
+---
+
 # Part One 
 
 # Chapter 1 : Inside Out
